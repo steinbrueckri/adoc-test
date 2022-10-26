@@ -1,0 +1,7 @@
+# adoc-test
+
+# A
+include::b.adoc[]
+
+# B
+include::b.adoc[]
