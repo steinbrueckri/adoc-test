@@ -1,5 +1,7 @@
 # adoc-test
 
+Do this work?
+
 include::b.adoc[]
 
 include::b.adoc[]
